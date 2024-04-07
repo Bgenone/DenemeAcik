@@ -5,6 +5,6 @@ class xyz
 {
     static void Main()
     {
-        Console.WriteLine("Hello Worlds");
+        Console.WriteLine("Hello World!");
     }
 }
